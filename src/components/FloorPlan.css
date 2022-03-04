@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira&family=Sedgwick+Ave&display=swap');
+
+.confirmArea{
+    width:400px;
+    background-color: gainsboro;
+    box-shadow: 3px 3px 10px 6px rgba(0,0,0,0.3);
+}
+.bookInfo{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.confirmBtn{
+    padding:10px;
+    cursor: pointer;
+    margin:5px ;
+    border-radius: 8px;
+    font-family: 'Saira', sans-serif;
+    background-color: #003C71;
+    color:white;
+    width: 100px;
+    font-size: 15px;
+}
+.confirmBtn:hover{
+    background-color: white;
+    color:#003C71;
+}
+.cancelBtn{
+    padding:10px;
+    cursor: pointer;
+    margin:5px ;
+    border-radius: 8px;
+    font-family: 'Saira', sans-serif;
+    background-color: #003C71;
+    color:white;
+    width: 100px;
+    font-size: 15px;
+}
+.cancelBtn:hover{
+    background-color: white;
+    color:#003C71;
+}
